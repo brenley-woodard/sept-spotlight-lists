@@ -1,17 +1,17 @@
-export const candy [
+export const candies = [
     {
         name: 'Snickers',
         flavor: 'chocolate caramel peanut',
-        type: 'candy bar'
-    }
+        type: 'candy bar',
+    },
     {
         name: 'Hi-Chews',
         flavor: 'fruity ',
-        type: 'gummy bites'
-    }
+        type: 'gummy bites',
+    },
     {
         name: 'Nerds',
         flavor: 'sweet & tart',
-        type: 'crunchy pebbles'
-    }
-]
+        type: 'crunchy pebbles',
+    },
+];
